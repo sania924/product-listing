@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "brand": "US.IT",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kbnz8nk0/router/x/y/k/d-link-dir-650in-original-imafsysqj3f3tec5.jpeg?q=70",
+      "currentPrice": "Rs. 150",
+      "standardPrice": "Rs. 300",
+      "discount": "50%",
+      "name": "Wireless Router"
+    },
+    {
+      "id": "2",
+      "brand": "Computer Peripheral",
+      "image": "https://rukminim2.flixcart.com/image/612/612/ksxjs7k0/keyboard/desktop-keyboard/i/n/d/zeb-k20-zebronics-original-imag6dugjbazygpz.jpeg?q=70",
+      "currentPrice": "Rs. 300",
+      "standardPrice": "Rs. 600",
+      "discount": "50%",
+      "name": "Keyboard"
+    },
+    {
+      "id": "3",
+      "brand": "USB Gadget",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/usb-gadget/v/9/j/usb-to-4-usb-a-ports-bestor-original-imaghz6ufc255zwk.jpeg?q=70",
+      "currentPrice": "Rs. 150",
+      "standardPrice": "Rs. 300",
+      "discount": "50%",
+      "name": "USB Devices"
+    },
+    {
+      "id": "4",
+      "brand": "US. Company",
+      "image": "https://rukminim2.flixcart.com/image/612/612/k1pbpu80/router/k/f/n/tp-link-tl-wr845n-wireless-n-original-imafhsgzpqyjkzjh.jpeg?q=70",
+      "currentPrice": "Rs. 150",
+      "standardPrice": "Rs. 300",
+      "discount": "50%",
+      "name": "Wireless Router"
+    },
+    {
+      "id": "5",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/a/t/d/-original-imagwde4z4v2cy6g.jpeg?q=70",
+      "currentPrice": "Rs. 150",
+      "standardPrice": "Rs. 300",
+      "discount": "50%",
+      "name": "Mouse"
+    },
+    {
+      "id": "6",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/j7p2tu80/datacard/e/g/k/lyf-m2s-original-imaexvnfpwdhphke.jpeg?q=70",
+      "currentPrice": "Rs. 150",
+      "standardPrice": "Rs. 300",
+      "discount": "50%",
+      "name": " Wireless Data Card"
+    },
+    {
+      "id": "7",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/d/l/l/wired-usb-gaming-mouse-with-breathing-lights-and-dpi-upto-3600-original-imagg6btapfaxtzh.jpeg?q=70",
+      "currentPrice": "Rs. 150",
+      "standardPrice": "Rs. 300",
+      "discount": "50%",
+      "name": "Gaming Mouse"
+    },
+    {
+      "id": "8",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/l4ei1e80/memory-card/microsdhc/o/h/a/mi210-hp-original-imagfaffktzghqtt.jpeg?q=70",
+      "currentPrice": "Rs. 150",
+      "standardPrice": "Rs. 300",
+      "discount": "50%",
+      "name": "Memory card"
+    },
+    {
+      "id": "9",
+      "brand": "Here&Now",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/router/d/j/m/w8-router-all-sim-support-by-brandroot-best-for-cctv-wifi-lan-original-imagjn38awfcsmvk.jpeg?q=70",
+      "currentPrice": "Rs. 150",
+      "standardPrice": "Rs. 300",
+      "discount": "50%",
+      "name": "Broadband"
+    },
+    {
+      "id": "af5a",
+      "brand": "SOPANI",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kurta/i/m/t/l-chainlster-sopani-original-imagtjhb3yzepg3z.jpeg?q=70&crop=false",
+      "currentPrice": "₹374",
+      "standardPrice": "₹1,499",
+      "discount": "75%",
+      "name": "Men Solid Cotton Blend Straight Kurta  (Light Blue)"
+    },
+    {
+      "id": "4e3d",
+      "brand": "HERE&NOW",
+      "image": "https://rukminim2.flixcart.com/image/832/832/kj8wccw0-0/jacket/x/h/7/l-12645812-here-now-original-imafyurkgwqgh9cp.jpeg?q=70&crop=false",
+      "currentPrice": "₹950",
+      "standardPrice": "₹3,799",
+      "discount": "74%",
+      "name": "Men Solid Bomber Jacket"
+    }
+  ]
+}
